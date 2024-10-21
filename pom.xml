@@ -7,6 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Example</name>
 	<packaging>war</packaging>
+	
 	<url>https://github.com/Premvikash/</url>
 
 	<issueManagement>
